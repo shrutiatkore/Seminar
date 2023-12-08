@@ -1,1 +1,1 @@
-# Seminar
+# Seminar for Git
